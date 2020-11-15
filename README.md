@@ -19,7 +19,7 @@
   
   ## Project Description
   Google Books Search is a MERN application that allows users to search books, view book details on Google Books via external link, and save the interested books for future reference.
-  You can access the application [here] (https://pure-sands-91326.herokuapp.com/)
+  You can access the application [here](https://pure-sands-91326.herokuapp.com/)
 
   ## License
   MIT
